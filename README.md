@@ -25,7 +25,7 @@ To bridge the gap between video game innovation and professional software, makin
 ## 💰 Business Model
 
 - **Premium Model**: One-time purchase, no subscriptions  
-- **Custom Pricing**: [comment]: <> (€5,000 to €30,000) depending on scope  
+- **Custom Pricing**: depending on scope  
 - **Optional Services**: Billed separately for major updates or infrastructure-specific installations
 
 ---
@@ -40,8 +40,7 @@ To bridge the gap between video game innovation and professional software, makin
 
 ## 📌 Why Choose Tec Tech?
 
-- A creative approach powered by game design principles  
-[comment]: <> (- Experience in real-world projects like **Inter’Activ** (with association **Équilibre**))
+- A creative approach powered by game design principles
 - Unique expertise in adapting game technologies to untapped professional use cases
 
 ---
